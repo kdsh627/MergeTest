@@ -1,12 +1,11 @@
 using UnityEngine;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class NewMonoBehaviourScript13 : MonoBehaviour
 {
-    //Á¦¹ß
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
- 
+        //ì œë°œ
     }
 
     // Update is called once per frame

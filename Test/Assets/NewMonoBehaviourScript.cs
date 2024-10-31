@@ -2,10 +2,11 @@ using UnityEngine;
 
 public class NewMonoBehaviourScript : MonoBehaviour
 {
+    //제발
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-    //응애   
+ 
     }
 
     // Update is called once per frame
